@@ -9,8 +9,8 @@
         <module name="toolkit" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="toolkit" target="1.5" />
+    <bytecodeTargetLevel target="1.8">
+      <module name="toolkit" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
